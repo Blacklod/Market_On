@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Приветствуем тебя в нашем онлайн магазине!</title>
+    <title>!</title>
   </head>
   <body>
 
